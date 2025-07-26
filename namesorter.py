@@ -1,6 +1,5 @@
 #Panayiotis Koutos
-#This code sorts names in groups alphabetically and then sorts names within each group alphabetically.
-
+#This code sorts names in groups alphabetically in groups
 
 
 group_1_description = "Last names from A to F"
